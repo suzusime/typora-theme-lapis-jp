@@ -47,22 +47,22 @@
 
 @font-face {
     font-family: "Cantarell";
-    src: url('lapis/Cantarell-VF-fixed.otf');
+    src: url('lapis-jp/Cantarell-VF-fixed.otf');
 }
 
 @font-face {
     font-family: "JetBrainsMono";
-    src: url('lapis/JetBrainsMono-Regular.ttf');
+    src: url('lapis-jp/JetBrainsMono-Regular.ttf');
 }
 
 @font-face {
     font-family: "SourceHanSerifJP";
-    src: url('lapis/SourceHanSerifJP-Medium.otf');
+    src: url('lapis-jp/SourceHanSerifJP-Medium.otf');
 }
 
 @font-face {
     font-family: "SourceHanSerifJP";
-    src: url('lapis/SourceHanSerifJP-Bold.otf');
+    src: url('lapis-jp/SourceHanSerifJP-Bold.otf');
     font-weight: bold;
 }
 
