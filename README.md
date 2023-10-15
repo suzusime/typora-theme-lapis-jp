@@ -1,3 +1,10 @@
+# Lapis JP
+Markdownエディタ [Typora](https://typora.io/) のテーマ [Lapis](https://github.com/YiNNx/typora-theme-lapis) のフォントを簡体字中国語のものから日本語のものに差し替えたフォークです。
+
+Release にある Zip ファイルをダウンロードして、Typora のテーマフォルダにコピーしてください。
+
+----
+
 <p align="right">
 	English / 
 	<a href="https://github.com/YiNNx/typora-theme-lapis/blob/master/README-CN.md">
